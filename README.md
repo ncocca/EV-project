@@ -1,6 +1,3 @@
-EV-project
-==========
-
 clear;
 chdir('C:\Users\bh4045\Desktop\Extensional Viscosity Project'); // name of directory
 fid = mopen('33-1.txt','rt'); // name of the text file
